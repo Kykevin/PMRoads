@@ -1,0 +1,55 @@
+﻿Build started 12/9/2015 11:46:31 AM.
+     1>Project "W:\KaiwenYu\ECE30834FinalProj\OpenGLFramework\OpenGLFramework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(39): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(62): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(96): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(97): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(98): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(128): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(129): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(130): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(131): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(280): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(281): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(288): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(377): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(297): warning C4101: 'result' : unreferenced local variable
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(423): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(625): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(626): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(631): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(632): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(927): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(932): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(933): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(933): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(934): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(935): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(935): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(936): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(937): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(937): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(938): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(939): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(939): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(942): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(945): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1097): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1208): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1212): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1215): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1223): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1227): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(1236): warning C4309: 'argument' : truncation of constant value
+     1>w:\kaiwenyu\ece30834finalproj\openglframework\main.cpp(144): warning C4715: 'orientation' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"W:\KaiwenYu\ECE30834FinalProj\Debug\OpenGLFramework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"W:\KaiwenYu\ECE30834FinalProj\Debug\OpenGLFramework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"W:\KaiwenYu\ECE30834FinalProj\Debug\OpenGLFramework.lib" /MACHINE:X86 Debug\main.obj
+         OpenGLFramework.vcxproj -> W:\KaiwenYu\ECE30834FinalProj\Debug\OpenGLFramework.exe
+     1>Done Building Project "W:\KaiwenYu\ECE30834FinalProj\OpenGLFramework\OpenGLFramework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.57
